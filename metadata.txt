@@ -1,0 +1,15 @@
+[general]
+name=BambuLabel - Pincel y Gestión de Etiquetas
+qgisMinimumVersion=3.0
+description=Herramienta especializada para etiquetado de bambú: Polígono lineal (estilo QGIS sin círculos), pincel por flujo continuo, pincel por tramos, auto-relleno de centros/huecos (dona/árbol), deshacer clic a clic (Backspace/Ctrl+Z) y sincronización estricta con id, Imagen, Superficie.
+version=1.2.0
+author=BambuTech - IIAP Asistente Geoespacial
+email=asistente@bambutech.org
+about=Herramienta de alto rendimiento para anotación en ortomosaicos GeoTIFF de dron. Permite digitalizar copas y manchales mediante polígonos lineales estilo QGIS, trazo continuo a mano alzada o tramos gruesos, auto-relleno de áreas internas al cerrar el contorno, deshacer de vértices en tiempo real, borrador dinámico, y respeta estrictamente los esquemas de atributos del usuario (id, Imagen, Superficie).
+tracker=
+repository=
+category=Vector
+tags=bambu, drone, annotation, polygon, brush, label, shapefile, segmentation
+icon=icon.png
+experimental=False
+deprecated=False
