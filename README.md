@@ -73,9 +73,3 @@
 * Haz **doble clic** sobre cualquier fila para hacer zoom inmediato a esa etiqueta.
 * Haz clic en **`💾 Guardar Cambios en Disco`** para consolidar el archivo Shapefile.
 
----
-
-## 3. Rutas de Archivos
-
-* **Plugin instalado en QGIS:** `C:\Users\chara\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\bambu_label\`
-* **Copia de seguridad en el proyecto:** `D:\TRABAJO_BAMBU\BAMBUTECH_INFORME_1\bambu_label_qgis_plugin\`
